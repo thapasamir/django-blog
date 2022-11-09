@@ -1,17 +1,6 @@
 
 # Django-Simple-Blog 📝
 
-Django Simple Blog is a MVP(Minimal Viable Product) blogging app in django, made as a pet project for educational purpose
-
-# DEMO
-
-
-https://user-images.githubusercontent.com/105993976/180430612-0b19d68c-9c58-4534-8ad1-16884ffcb7be.mp4
-
-
-
-
-
 ## Tech Stack
 - **Frontend:** HTML / CSS / Bootstrap (5.2)
 - **Backend:** Django (4.0.5) / Django-Rest-Framework (3.13.1)
