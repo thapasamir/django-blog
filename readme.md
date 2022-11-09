@@ -25,7 +25,7 @@
 
 - Fork and Clone the repository using:
 ```
-git clone https://github.com/habiboolean/Django-Simple-Blog.git
+https://github.com/thapasamir/django-blog
 ```
 - Create virtual environment:
 ```
